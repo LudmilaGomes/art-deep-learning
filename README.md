@@ -1,3 +1,5 @@
+# Projeto de IA - Classificação de Pinturas
+
 - Andamento do projeto
 	- dataset: mais de 80.000 imagens de obras de arte; inúmeros artistas de várias épocas e de diferentes gêneros de pintura
 	- ideia: utilização de deep learning, uso de Convolutional Neural Network (CNN) para classificação do gênero da pintura
