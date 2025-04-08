@@ -35,7 +35,7 @@ With the objective of learning more about Computer Vision and Artificial Intelli
 
 The WikiArt Dataset was used. It contains more than 80,000 paintings by many artists from various periods and diverse genres.
 
-### Dificulties
+### Difficulties
 
 - I performed many tests with different approaches for the implemented CNN model. Simpler models did not learn properly, and more complex models suffered from overfitting.
 - The chosen dataset has many classes. The genres vary, and some classes feature very distinct paintings (such as Pop Art). Moreover, there is an imbalance in the number of instances per class (Impressionism has 12,847 instances while New Realism has only 312).
