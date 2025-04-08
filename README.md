@@ -1,8 +1,8 @@
 # Projeto de IA - Classificação de Pinturas
 
 ---
-🇧🇷
-### Sobre o projeto
+
+## Sobre o projeto 🇧🇷
 
 Com o objetivo de aprender e estudar a área de Visão Computacional e IA, decidi realizar a classificação dos gêneros de pinturas. 
 
@@ -28,9 +28,8 @@ Utilizou-se o dataset WikiArt, com mais de 80.000 imagens de obras de arte; inú
 - Experiências apreendidas com o projeto: CNNs, Keras, PyTorch e uso de modelos pré-treinados!
 
 ---
-🇺🇸🇬🇧
 
-### About the project
+## About the project 🇺🇸🇬🇧
 
 With the objective of learning more about Computer Vision and Artificial Intelligence, I decided to desenvolve this project, which focuses on classifying paintings.
 
