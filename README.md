@@ -1,6 +1,4 @@
-# Projeto de IA - Classificação de Pinturas
-
----
+# Classificador de Pinturas | Painting Classifier
 
 ## Sobre o projeto 🇧🇷
 
